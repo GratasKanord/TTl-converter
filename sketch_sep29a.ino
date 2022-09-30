@@ -8,5 +8,5 @@ void setup() {
 }
 
 void loop() {
-  myserial.print("T");
+  myserial.print("L");
 }
